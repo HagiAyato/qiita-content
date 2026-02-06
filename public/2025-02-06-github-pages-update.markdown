@@ -7,7 +7,7 @@ tags:
   - Ruby
   - GoogleAnalytics
 private: false
-updated_at: ''
+updated_at: '2025-02-06T12:00:00+0900'
 id: null
 organization_url_name: null
 slide: false
