@@ -1,14 +1,14 @@
 ---
 title: GitHub Pagesの更新環境構築でハマった話（GA対応とGitHub Actions移行）
 tags:
-  - GitHubPages
-  - Jekyll
-  - GitHubActions
   - Ruby
+  - Jekyll
   - GoogleAnalytics
+  - GithubPages
+  - GitHubActions
 private: false
-updated_at: '2025-02-06T12:00:00+0900'
-id: null
+updated_at: '2026-02-06T22:33:27+09:00'
+id: 17152140ed108535e590
 organization_url_name: null
 slide: false
 ignorePublish: false
